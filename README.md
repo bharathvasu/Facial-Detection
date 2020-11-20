@@ -1,2 +1,2 @@
-# Facial-Deduction
+# Facial-Detection
 Face Detection code
